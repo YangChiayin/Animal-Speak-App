@@ -1,5 +1,5 @@
-# AnimalSpeakAp
-<img src="https://github.com/user-attachments/assets/5e48697e-283d-4ba2-889c-3fc4dd3851bb" width="500" />
+# AnimalSpeakApp
+<img src="https://github.com/user-attachments/assets/bb1affd5-b2c1-4ff9-b9be-4699ef704f8e" width="800" />
 
 ## Overview
 
